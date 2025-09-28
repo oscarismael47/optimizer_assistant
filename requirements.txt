@@ -1,0 +1,19 @@
+streamlit
+langgraph
+langchain-openai
+langchain-groq
+ortools
+folium
+streamlit-folium==0.25.2
+googlemaps==4.10.0
+rectpack
+matplotlib
+## create env
+# uv venv --python 3.12
+
+## activate env
+# Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+# .venv\Scripts\Activate.ps1
+
+## install dependencies
+# uv pip install -r requirements.txt

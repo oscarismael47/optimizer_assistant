@@ -1,0 +1,6 @@
+TSP example:
+I want to deliver packages to multiple addresses in the city.
+minimize total travel distance
+starts and ends in the same location
+
+A street food truck wants to visit multiple office buildings during lunch hours to sell meals. Each office building is a point on the city map.
